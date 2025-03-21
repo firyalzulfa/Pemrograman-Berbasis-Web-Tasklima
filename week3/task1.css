@@ -1,0 +1,32 @@
+* {
+    color: black;
+    text-align: left;
+}
+
+body{
+    background-color: white;
+}
+h1 {
+    color: red;
+    font-size: 40px;
+}
+h3 {
+    text-decoration: underline;
+}
+
+.quote {
+    font-style: Italic;
+}
+
+#line3 {
+    color: blue;
+    font-family : Arial;
+}
+
+a[href] {
+    color: blue;
+}
+
+h1, h3 {
+    font-weight: bold;
+}
